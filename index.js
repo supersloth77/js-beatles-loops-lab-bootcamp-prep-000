@@ -20,6 +20,6 @@ const facts = [
 function johnLennonFacts(facts) {
   n = 0;
   newFacts = [];
-  while () {
+  while (n < facts.length; ) {
   }
 }
