@@ -30,6 +30,6 @@ function iLoveTheBeatles(number) {
   newArray = [];
   n = 0;
   do {
-    newArray.push("I love the Beatles!"[number]);
+    newArray.push("I love the Beatles!"[number]); n++;
   } while (number < 15);
 }
