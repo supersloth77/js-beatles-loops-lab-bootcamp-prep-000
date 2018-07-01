@@ -19,7 +19,7 @@ const facts = [
 
 function johnLennonFacts(facts) {
   let i = 0;
-  newFacts = [];
+  let newFacts = [];
   while (i < facts.length) {
     newFacts.push(facts[i] + "!!!"); i++;
   }
