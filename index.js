@@ -18,10 +18,10 @@ const facts = [
 ];
 
 function johnLennonFacts(facts) {
-  1 = 0;
+  n = 0;
   newFacts = [];
   while (n < facts.length) {
-    newFacts.push(facts[n] + "!!!"; n+++);
+    newFacts.push(facts[n] + "!!!"); n++;
   }
   return newFacts;
 }
